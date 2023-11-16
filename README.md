@@ -51,14 +51,14 @@ npm start
 ```
 
 ## API Endpoints
-- POST /api/register: Register a new user.
-- POST /api/login: Log in an existing user.
-- POST /api/items: Add a new item.
-- GET /api/items/:id: Get items associated with a specific user.
-- PUT /api/items/:id/close-bidding: Close bidding for a specific item.
-- POST /api/items/:itemId/bid: Place a bid on a specific item.
-- GET /api/transactions/:username: Get transactions for a specific user.
-- GET /api/items: Get all items.
+- POST /api/register : Register a new user.
+- POST /api/login : Log in an existing user.
+- POST /api/items : Add a new item.
+- GET /api/items/:id : Get items associated with a specific user.
+- PUT /api/items/:id/close-bidding : Close bidding for a specific item.
+- POST /api/items/:itemId/bid : Place a bid on a specific item.
+- GET /api/transactions/:username : Get transactions for a specific user.
+- GET /api/items : Get all items.
 
 ## WebSocket
 Web sockets used for the chat purpose for every product, and is broadcasted to every user.
