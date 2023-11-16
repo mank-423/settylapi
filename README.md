@@ -47,7 +47,7 @@ Clone the repository:
 ```bash
 cd settylapi
 npm install
-npm start
+node index.js
 ```
 
 ## API Endpoints
