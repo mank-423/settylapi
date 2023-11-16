@@ -45,7 +45,7 @@ Clone the repository:
 ### Runing the server
 
 ```bash
-cd your-project
+cd settylapi
 npm install
 npm start
 ```
