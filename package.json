@@ -17,6 +17,7 @@
     "http": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.0",
+    "websocket": "^1.0.34",
     "websockets": "^0.2.0"
   }
 }
