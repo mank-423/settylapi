@@ -69,3 +69,5 @@ Using JWT token, for login purpose and the user is stored in localStorage. And t
 ## Examples
 - Only API which is accessible without token and username
 <img width="960" alt="image" src="https://github.com/mank-423/settylapi/assets/96490105/0dda477b-e86c-458d-891a-7b91de3056ff">
+
+- Other API endpoints need the JWT token, and username for the item.
