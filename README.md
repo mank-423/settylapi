@@ -66,6 +66,6 @@ Web sockets used for the chat purpose for every product, and is broadcasted to e
 ## Authentication
 Using JWT token, for login purpose and the user is stored in localStorage. And the token is fetched to use for login purpose.
 
-## Example
+## Examples
 - Only API which is accessible without token and username
 <img width="960" alt="image" src="https://github.com/mank-423/settylapi/assets/96490105/0dda477b-e86c-458d-891a-7b91de3056ff">
